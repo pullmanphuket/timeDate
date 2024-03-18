@@ -7,3 +7,4 @@ I'll add new API endpoints to this bot as part of my video series.
 
 ## Endpoints
 
+app.use('/timedate', timeDateRoutes);
